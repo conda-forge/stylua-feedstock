@@ -1,5 +1,5 @@
 context:
-  version: 0.20.0
+  version: "2.0.2"
 
 package:
   name: stylua
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/JohnnyMorganz/StyLua/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: f4a27b12669953d2edf55b89cc80381f97a2dfa735f53f95c6ae6015c8c35ffb
+  sha256: 0d88a55d4d33a7d7334bdef8ccaf1fb6524b21dd66d60be8efc0cf92f6d31ad3
 
 build:
   number: 0
